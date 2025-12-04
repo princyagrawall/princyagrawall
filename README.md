@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 👋 Hi, I’m Princy Agrawal<br>🎓 B.Tech CSE student @ UPES Dehradun<br>💻 Currently learning C programming<br>🌱 On the way to learn new things and explore different fields in tech<br>🤝 Open to connect, share ideas, and collaborate on beginner-friendly projects
 
 
